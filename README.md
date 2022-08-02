@@ -1,4 +1,5 @@
-# PR Hurricane
+# Post-Hurricane NDVI Analysis in Puerto Rican Coffee Farms
+## PR Hurricane
 
 NDVI analysis in Puerto Rican coffee farms after Hurricane Maria (September 2017)
 
